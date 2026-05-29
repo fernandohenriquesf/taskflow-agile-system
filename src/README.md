@@ -27,3 +27,6 @@ Após revisão do escopo foi adicionada funcionalidade de exclusão de tarefas.
 Tecnologia utilizada: Flask Framework.
 ## Autor
 Fernando Henrique
+## Objetivo
+
+Desenvolver um sistema web simples para gerenciamento de tarefas utilizando metodologia ágil.
