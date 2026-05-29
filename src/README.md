@@ -32,3 +32,6 @@ Fernando Henrique
 Desenvolver um sistema web simples para gerenciamento de tarefas utilizando metodologia ágil.## Testes Automatizados
 
 O projeto utiliza Pytest para validar o funcionamento básico da aplicação.
+git add README.md
+git commit -m "test: document automated testing"
+git push
