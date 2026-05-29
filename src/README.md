@@ -29,4 +29,6 @@ Tecnologia utilizada: Flask Framework.
 Fernando Henrique
 ## Objetivo
 
-Desenvolver um sistema web simples para gerenciamento de tarefas utilizando metodologia ágil.
+Desenvolver um sistema web simples para gerenciamento de tarefas utilizando metodologia ágil.## Testes Automatizados
+
+O projeto utiliza Pytest para validar o funcionamento básico da aplicação.
