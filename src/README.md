@@ -35,3 +35,4 @@ O projeto utiliza Pytest para validar o funcionamento básico da aplicação.
 git add README.md
 git commit -m "test: document automated testing"
 git push
+Última atualização do projeto.
